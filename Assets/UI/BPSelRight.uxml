@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:GroupBox style="flex-direction: column; width: 70px; height: 120px; justify-content: center; align-items: center; background-color: rgba(255, 133, 11, 0); background-image: resource(&apos;Images/HUD/BallSelected2&apos;); margin-bottom: 0; margin-top: 0; margin-right: 0; margin-left: 0; padding-left: 0; padding-top: 0; padding-bottom: 0;">
+        <ui:IMGUIContainer style="width: auto; height: auto; max-width: 90px; max-height: 90px; min-height: 45px; min-width: 45px; margin-top: 10px; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; margin-left: 0; margin-right: 0; margin-bottom: 0;" />
+        <ui:Label text="Label" display-tooltip-when-elided="true" style="justify-content: center; align-items: center; -unity-text-align: middle-center; margin-left: 0; font-size: 24px; -unity-font-style: bold; -unity-font: resource(&apos;Font/VCR_OSD_MONO_1.001&apos;); padding-left: 0; padding-right: 0;" />
+    </ui:GroupBox>
+</ui:UXML>

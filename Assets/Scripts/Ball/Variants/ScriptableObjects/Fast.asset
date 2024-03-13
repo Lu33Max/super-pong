@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2aee0dd3d8d1b064e803b62f20276086, type: 3}
+  m_Name: Fast
+  m_EditorClassIdentifier: 
+  <BallName>k__BackingField: Fast
+  <BallSprite>k__BackingField: {fileID: 21300000, guid: 1f4713784bd83a04f89e84f5a5e1013b, type: 3}
+  <InitialSpeed>k__BackingField: 8
+  <SpeedIncrease>k__BackingField: 0.5
+  <TouchDamage>k__BackingField: 1
+  <GoalDamage>k__BackingField: 3
